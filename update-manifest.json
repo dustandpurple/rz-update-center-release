@@ -13,8 +13,8 @@
       "appId": "rz-agent",
       "name": "RZ Suggestion Agent",
       "latestVersion": "0.1.1",
-      "installerUrl": "https://github.com/dustandpurple/rz-agent-release/releases/download/v0.1.1/RZ.Suggestion.Agent.Setup.0.1.1.exe",
-      "fileName": "RZ.Suggestion.Agent.Setup.0.1.1.exe",
+      "installerUrl": "https://github.com/dustandpurple/rz-agent-release/releases/download/v0.1.2/RZ.Suggestion.Agent.Setup.0.1.2.exe",
+      "fileName": "RZ.Suggestion.Agent.Setup.0.1.2.exe",
       "installArgs": []
     },
     "rz-update-center": {
