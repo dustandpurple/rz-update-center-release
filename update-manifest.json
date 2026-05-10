@@ -16,6 +16,14 @@
       "installerUrl": "https://github.com/dustandpurple/rz-agent-release/releases/download/v0.1.1/RZ.Suggestion.Agent.Setup.0.1.1.exe",
       "fileName": "RZ.Suggestion.Agent.Setup.0.1.1.exe",
       "installArgs": []
+    },
+    "rz-update-center": {
+      "appId": "rz-update-center",
+      "name": "RZ Update Center",
+      "latestVersion": "0.1.1",
+      "installerUrl": "https://github.com/dustandpurple/rz-update-center-release/releases/download/v0.1.1/RZ-Update-Center-Setup-0.1.1.exe",
+      "fileName": "rz-update-center-0.1.1-setup.exe",
+      "installArgs": []
     }
   }
 }
