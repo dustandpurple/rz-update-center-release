@@ -1,4 +1,4 @@
-RZ Panel 0.1.5 Yenilikleri
+RZ Panel 0.1.9 Yenilikleri
 
 - Barista panelinde performans iyileştirmeleri yapıldı.
 - Login ekranındaki geçiş animasyonları düzenlendi.
