@@ -1,4 +1,4 @@
-RZ Agent 0.1.2 Yenilikleri
+RZ Agent 0.1.4 Yenilikleri
 
 Akıllı sepet context motoru eklendi
 Sepette zaten olan ürünü tekrar önermeme eklendi
