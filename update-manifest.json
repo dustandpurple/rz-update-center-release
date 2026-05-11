@@ -4,9 +4,9 @@
     "rz-panel": {
       "appId": "rz-panel",
       "name": "Nevada Coffee RZ Panel - Yönetim Paneli",
-      "latestVersion": "1.1.7",
-      "installerUrl": "https://github.com/dustandpurple/rzpanel-release/releases/download/v1.1.7/nevada-rzg-panel-setup-1.1.7.exe",
-      "fileName": "rz-panel-1.1.7-setup.exe",
+      "latestVersion": "1.1.9",
+      "installerUrl": "https://github.com/dustandpurple/rzpanel-release/releases/download/v1.1.9/RZ-Panel-Setup-1.1.9.exe",
+      "fileName": "RZ-Panel-Setup-1.1.9.exe",
       "installArgs": []
     },
     "rz-agent": {
