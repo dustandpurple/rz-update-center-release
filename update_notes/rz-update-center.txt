@@ -1,4 +1,5 @@
-RZ Update Center 0.1.3 Yenilikleri
+RZ Update Center 0.1.5 Yenilikleri
 
 - Çoklu uygulama güncellemelerinde tek çatı altında yenilikler ekranı eklendi.
 - Glass tasarıma uygun küçük-orta boy bilgilendirme penceresi hazırlandı.
+- Update Center uygulama güncellemelerindeki tutarsızlıkları giderildi.
