@@ -1,5 +1,6 @@
 RZ Panel 0.1.7 Yenilikleri
 
+- Cocoberry'nin puan bazında sayılmamasına neden olan metrik hatası giderildi.
 - Barista panelinde performans iyileştirmeleri yapıldı.
 - Login ekranındaki geçiş animasyonları düzenlendi.
 - Güncelleme sonrası yenilikler ekranı eklendi.
