@@ -1,10 +1,8 @@
 RZ Agent 0.1.4 Yenilikleri
 
-Akıllı sepet context motoru eklendi
-Sepette zaten olan ürünü tekrar önermeme eklendi
-Son 3 dakikada gösterilen önerileri tamamen engellemek yerine geriye atma eklendi
-Öneri havuzu yetersizse global havuzdan destek alma eklendi
-Şurup, tatlı ve içecek önerileri ayrı ayrı memory/rerank mantığıyla sıralanıyor
-Suggestion event logging altyapısı eklendi
-live/mock/localStorage watcher dosyaları yeni motoru kullanacak şekilde güncellendi
-agent.config.json içine Faz 1 ayarları eklendi
+- agent-status.json yazma
+- Config değişince otomatik reload
+- productControls.disabledSuggestions desteği
+- productControls.boostedSuggestions desteği
+- dailyFocus desteği
+- RZ-Panel’den kaydedilen ayarları yeniden başlatmadan algılama
