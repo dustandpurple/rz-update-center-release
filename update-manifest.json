@@ -4,17 +4,17 @@
     "rz-panel": {
       "appId": "rz-panel",
       "name": "Nevada Coffee RZ Panel - Yönetim Paneli",
-      "latestVersion": "1.2.7",
-      "installerUrl": "https://github.com/dustandpurple/rzpanel-release/releases/download/v1.2.7/RZ-Panel-Setup-1.2.7.exe",
-      "fileName": "RZ-Panel-Setup-1.2.7.exe",
+      "latestVersion": "1.2.8",
+      "installerUrl": "https://github.com/dustandpurple/rzpanel-release/releases/download/v1.2.8/RZ-Panel-Setup-1.2.8.exe",
+      "fileName": "RZ-Panel-Setup-1.2.8.exe",
       "installArgs": []
     },
     "rz-agent": {
       "appId": "rz-agent",
       "name": "RZ Suggestion Agent",
-      "latestVersion": "0.2.2",
-      "installerUrl": "https://github.com/dustandpurple/rz-agent-release/releases/download/v0.2.2/RZ.Suggestion.Agent.Setup.0.2.2.exe",
-      "fileName": "RZ.Suggestion.Agent.Setup.0.2.2.exe",
+      "latestVersion": "0.2.3",
+      "installerUrl": "https://github.com/dustandpurple/rz-agent-release/releases/download/v0.2.3/RZ.Suggestion.Agent.Setup.0.2.3.exe",
+      "fileName": "RZ.Suggestion.Agent.Setup.0.2.3.exe",
       "installArgs": []
     },
     "rz-update-center": {
