@@ -20,9 +20,9 @@
     "rz-update-center": {
       "appId": "rz-update-center",
       "name": "RZ Update Center",
-      "latestVersion": "0.1.9",
-      "installerUrl": "https://github.com/dustandpurple/rz-update-center-release/releases/download/v0.1.9/RZ-Update-Center-Setup-0.1.9.exe",
-      "fileName": "RZ-Update-Center-Setup-0.1.9.exe",
+      "latestVersion": "0.1.11",
+      "installerUrl": "https://github.com/dustandpurple/rz-update-center-release/releases/download/v0.1.11/RZ-Update-Center-Setup-0.1.11.exe",
+      "fileName": "RZ-Update-Center-Setup-0.1.11.exe",
       "installArgs": []
     }
   }
