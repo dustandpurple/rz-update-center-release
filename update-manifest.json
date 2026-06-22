@@ -4,25 +4,25 @@
     "rz-panel": {
       "appId": "rz-panel",
       "name": "Nevada Coffee RZ Panel - Yönetim Paneli",
-      "latestVersion": "1.4.18",
-      "installerUrl": "https://github.com/dustandpurple/rzpanel-release/releases/download/v1.4.18/RZ-Panel-Setup-1.4.18.exe",
-      "fileName": "RZ-Panel-Setup-1.4.18",
+      "latestVersion": "1.4.21",
+      "installerUrl": "https://github.com/dustandpurple/rzpanel-release/releases/download/v1.4.21/RZ-Panel-Setup-1.4.21.exe",
+      "fileName": "RZ-Panel-Setup-1.4.21",
       "installArgs": []
     },
     "rz-agent": {
       "appId": "rz-agent",
       "name": "RZ Suggestion Agent",
-      "latestVersion": "0.3.63",
-      "installerUrl": "https://github.com/dustandpurple/rz-agent-release/releases/download/v0.3.63/RZ-Suggestion-Agent-Setup-0.3.63.exe",
-      "fileName": "RZ-Suggestion-Agent-Setup-0.3.63.exe",
+      "latestVersion": "0.3.65",
+      "installerUrl": "https://github.com/dustandpurple/rz-agent-release/releases/download/v0.3.65/RZ-Suggestion-Agent-Setup-0.3.65.exe",
+      "fileName": "RZ-Suggestion-Agent-Setup-0.3.65.exe",
       "installArgs": []
     },
     "rz-update-center": {
       "appId": "rz-update-center",
       "name": "RZ Update Center",
-      "latestVersion": "0.1.23",
-      "installerUrl": "https://github.com/dustandpurple/rz-update-center-release/releases/download/v0.1.23/RZ-Update-Center-Setup-0.1.23.exe",
-      "fileName": "RZ-Update-Center-Setup-0.1.23.exe",
+      "latestVersion": "0.1.25",
+      "installerUrl": "https://github.com/dustandpurple/rz-update-center-release/releases/download/v0.1.25/RZ-Update-Center-Setup-0.1.25.exe",
+      "fileName": "RZ-Update-Center-Setup-0.1.25.exe",
       "installArgs": []
     }
   }
